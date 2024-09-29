@@ -1,6 +1,5 @@
 ## Hello! 你好👋
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact"></img></a>
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxuanzhao&theme=tokyonight&layout=compact"></img></a>
 
 - 🇨🇳 I'm a senior year high school student in Beijing, PRC.
@@ -12,6 +11,8 @@
 - 📫 How to reach me: youxuanzhao2007@outlook.com | X: @youxuanzhao_07 
 
 ## Links
+
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact"></img></a>
 
 - [My Personal Webpage]('youxuanzhao.github.io')
 - [My itch.io Page]('youxuanzhao.itch.io')
