@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! 你好👋
+
+I'm a senior year High school student in Beijing, PRC.🇨🇳
+
 
 <!--
 **youxuanzhao/youxuanzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
