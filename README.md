@@ -1,7 +1,21 @@
 ## Hello! 你好👋
 
-I'm a senior year High school student in Beijing, PRC.🇨🇳
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxuanzhao&theme=tokyonight&layout=compact"></img></a>
 
+- 🇨🇳 I'm a senior year high school student in Beijing, PRC.
+
+- 🎮 I'm interested in Game Design and Game Development.
+
+- 🦀 I'm currently learning Rust and a game engine written in that language, Bevy Engine.
+
+- 📫 How to reach me: youxuanzhao2007@outlook.com | X: @youxuanzhao_07 
+
+## Links
+
+- [My Personal Webpage]('youxuanzhao.github.io')
+- [My itch.io Page]('youxuanzhao.itch.io')
+- [My Instagram]('www.instagram.com/yxzhao07/')
 
 <!--
 **youxuanzhao/youxuanzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
