@@ -12,7 +12,7 @@
 
 ## Links
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true"></img></a>
 
 - [My Personal Webpage](https://youxuanzhao.github.io)
 - [My itch.io Page](https://youxuanzhao.itch.io)
