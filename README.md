@@ -1,11 +1,11 @@
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxuanzhao&theme=tokyonight&layout=compact"></img></a>
+<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxuanzhao&theme=tokyonight&layout=compact"></img></a>
+
+<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true"></img></a>
 
 youxuanzhao2007@outlook.com | X: @youxuanzhao_07 
 
 ## Links
-
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=youxuanzhao&count_private=true&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true"></img></a>
 
 - [My itch.io Page](https://youxuanzhao.itch.io)
 - [My Instagram](https://www.instagram.com/yxzhao07/)
