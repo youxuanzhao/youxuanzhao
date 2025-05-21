@@ -1,10 +1,14 @@
+I make games, cool.
 
-youxuanzhao2007@outlook.com | X: @youxuanzhao_07 
+USC 29' Game Development & Interactive Design
+
+youxuanzhao2007@outlook.com | X: @youxuanzhao_07 | Ins: @yxzhao07
 
 ## Links
 
-- [My itch.io Page](https://youxuanzhao.itch.io)
-- [My Instagram](https://www.instagram.com/yxzhao07/)
+- [itch.io](https://youxuanzhao.itch.io)
+
+- [Kinopio](https://kinopio.club/main-gqda0pdTSrKJZEp0CIX7s)
 
 <!--
 **youxuanzhao/youxuanzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
