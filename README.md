@@ -2,7 +2,7 @@ I make games, cool.
 
 USC 29' Game Development & Interactive Design
 
-youxuanzhao2007@outlook.com | X: @youxuanzhao_07 | Blusky: @youxuanzhao.bsky.social
+youxuanzhao2007@outlook.com | X: @youxuanzhao_07 | Bluesky: @youxuanzhao.bsky.social
 
 ## Links
 
